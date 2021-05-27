@@ -8,6 +8,6 @@ public class Controller {
 
     @GetMapping("/")
     public String welcome(){
-        return "Welcome User";
+        return "Welcome User New commit";
     }
 }
