@@ -19,7 +19,7 @@ public class Controller {
 
     @GetMapping("/")
     public String welcome(){
-        return "Welcome User New commit";
+        return "Welcome User New commit jenkins";
     }
 
     @GetMapping("/put/{name}")
